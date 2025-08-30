@@ -1,17 +1,19 @@
-<h1 align="center">Hi 👋, I'm MiaoChien</h1>
+<h1 align="center">Hi 👋, I'm Miao Chien</h1>
 <h3 align="center">Data scientist turning complex environmental issues into clear, visual stories.</h3>
 
 - 🌿 I'm currently working at Greenpeace as a research specialist and web developer.
-  
-- 🔭 I’m currently working on an open-source R package [TaiwanAQ](https://github.com/MiaoChien0204/TaiwanAQ).
 
-- 🌱 I’m currently learning **Gardening**
+- 🔭 I’m currently working on [TaiwanAQ](https://github.com/MiaoChien0204/TaiwanAQ)
 
-- 💬 Ask me about **R, GIS, and environmental data analysis.**
+- 🌱 I’m currently learning **Strategic Thinking**
 
-- 📫 How to reach me **miao23641@gmail.com**
+- 💬 Ask me about **R, GIS and environment data analysis**
 
-- ⚡ Fun fact: **I am a Red Cross lifeguard instructor. Every summer, I wake up at 4:30 am as a volunteer, teaching water safety and self-rescue.**
+- 📫 How to reach me 👉 **miao23641@gmail.com**
+
+- 📄 Know about my experiences 👉 [https://miaochien.notion.site/?source=copy_link](https://miaochien.notion.site/?source=copy_link)
+
+- ⚡ Fun fact 👉 **I am a Red Cross lifeguard coach. Every summer, I wake up at 4:30 am as a volunteer coach, teaching water safety and self-rescue.**
 
 
 <h3 align="left">Languages and Tools:</h3>
